@@ -1,0 +1,229 @@
+{
+  "student": [
+    {
+      "rollNo": 1,
+      "sName": "Mukesh Kumar Gupta",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 1
+    },
+    {
+      "rollNo": 2,
+      "sName": "Sahitya",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 2
+    },
+    {
+      "rollNo": 3,
+      "sName": "Monu",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 3
+    },
+    {
+      "rollNo": 4,
+      "sName": "Sonu",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 4
+    },
+    {
+      "rollNo": 5,
+      "sName": "Arjun",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 5
+    },
+    {
+      "rollNo": 6,
+      "sName": "Akash",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 6
+    },
+    {
+      "rollNo": 7,
+      "sName": "Kokona Haruka",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 7
+    },
+    {
+      "rollNo": 8,
+      "sName": "Haruto Yuto",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 8
+    },
+    {
+      "rollNo": 9,
+      "sName": "Sota Yuki",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 9
+    },
+    {
+      "rollNo": 10,
+      "sName": "Hayato Haruki",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 10
+    },
+    {
+      "rollNo": 11,
+      "sName": "Ryusei Koki",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 11
+    },
+    {
+      "rollNo": 12,
+      "sName": "Sora Sosuke",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 12
+    },
+    {
+      "rollNo": 13,
+      "sName": "Riku Soma",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 13
+    },
+    {
+      "rollNo": 14,
+      "sName": "Pippi Osu",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 14
+    },
+    {
+      "rollNo": 15,
+      "sName": "Ryuto Ippongo",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 15
+    },
+    {
+      "rollNo": "16",
+      "sName": "MrollNoori Gurin",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 16
+    },
+    {
+      "rollNo": "17",
+      "sName": "Sakyu Basu",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 17
+    },
+    {
+      "rollNo": "18",
+      "sName": "Inkyu Basu",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 18
+    },
+    {
+      "rollNo": "19",
+      "sName": "Kuu Dere",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 19
+    },
+    {
+      "rollNo": "20",
+      "sName": "Mai Waifu",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 20
+    },
+    {
+      "rollNo": "21",
+      "sName": "Budo Masuta",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 21
+    },
+    {
+      "rollNo": "22",
+      "sName": "Sho Kunin",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 22
+    },
+    {
+      "rollNo": "23",
+      "sName": "Juku Ren",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 23
+    },
+    {
+      "rollNo": "24",
+      "sName": "Mina Rai",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 24
+    },
+    {
+      "rollNo": "25",
+      "sName": "Rahul",
+      "checkIn": false,
+      "date": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "id": 25
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+.attendanceDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    flex-direction: column;
+    width: 100%;
+}
+.container{
+    display: flex;
+    margin-top: 20px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: #FAF6F8;
+    width: 348px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.stdName{
+    width: 100%;
+}
+
+.stdRoll{
+    width: 100%;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+}
+
+.mark{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.mark button{
+    width: 100%;
+    border: 1px solid;
+    padding: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+label{
+    font-size: 12px;
+    font-weight: 600;
+}
+
+input{
+    width: 95%;
+    padding: 5px;
+    border: 1px solid;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
